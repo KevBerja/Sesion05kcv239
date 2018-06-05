@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
 
-<coverage line-rate="0.8787878787878788" branch-rate="0.7666666666666667" lines-covered="87" lines-valid="99" branches-covered="46" branches-valid="60" complexity="2.48" version="2.1.1" timestamp="1526914632681">
+<coverage line-rate="0.8787878787878788" branch-rate="0.7666666666666667" lines-covered="87" lines-valid="99" branches-covered="46" branches-valid="60" complexity="2.48" version="2.1.1" timestamp="1528210076902">
 	<sources>
 		<source>--source</source>
-		<source>/home/kevberja/WORKSPACE/Sesion07kcv239/src</source>
-		<source>/home/kevberja/WORKSPACE/Sesion07kcv239/target/generated-sources/annotations</source>
+		<source>/home/kevberja/git/Sesion07kcv239/target/generated-sources/annotations</source>
+		<source>/home/kevberja/git/Sesion07kcv239/src</source>
 	</sources>
 	<packages>
 		<package name="ual.hmis.sesion05.ejercicio1" line-rate="1.0" branch-rate="1.0" complexity="5.0">
